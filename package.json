@@ -14,5 +14,8 @@
     "react-dom": "latest",
     "react-router-dom": "^7.18.4",
     "vite": "latest"
+  },
+  "devDependencies": {
+    "@rolldown/plugin-babel": "^0.2.4"
   }
 }
