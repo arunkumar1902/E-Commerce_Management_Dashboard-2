@@ -63,7 +63,7 @@ export default function Dashboard({ products, orders, customers, setPage }) {
       <div className="page-heading">
         <div>
           <p className="eyebrow">{todayDate}</p>
-          <h1>Good afternoon, Jordan <span className="wave">✦</span></h1>
+          <h1>Welcome, Arun<span className="wave">✦</span></h1>
           <p className="page-subtitle">Here's what's happening with your store today.</p>
         </div>
         <button className="btn btn-secondary" onClick={() => window.print()}>↓ Export report</button>
