@@ -52,7 +52,7 @@ export default function Sidebar({ page, setPage, open, onClose }) {
               <strong>Arun</strong>
               <span>Store admin</span>
             </div>
-            <button className="profile-more" aria-label="Profile options" onClick={() => window.alert("Signed in as Jordan Davis")}>
+            <button className="profile-more" aria-label="Profile options" onClick={() => window.alert("Signed in as Arun")}>
               •••
             </button>
           </div>

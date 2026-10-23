@@ -170,7 +170,7 @@ export default function App() {
         </Routes>
 
         <footer className="app-footer">
-          <span>© 2026 CommerceHQ</span>
+          <span>© 2026 E Commerce</span>
           <span>
             Built for better commerce <b>✦</b>
           </span>
